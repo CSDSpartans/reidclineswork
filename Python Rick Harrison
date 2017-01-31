@@ -1,0 +1,36 @@
+print("Hello there")
+
+name = input("What is your name?\n>> ")
+
+print("Hi " + name)
+
+print ("I'm Rick Harrison and this meme died months ago")
+#!/usr/bin/env python3
+
+print("Hello person that is alive")
+name = input("What is your name?\n>> ")
+print("Hi " + name)
+
+
+print("we took a dub yesterday") 
+
+print("grind house") 
+
+print("I dont like this")
+
+print("Im rick harison and this is my pawn shop")
+
+print("""
+And so I cry sometimes when I'm lying in bed just to get it all out, whats in my head and I-I-i am feeling... a little peculiar....
+""")
+print(""" "Now this is a story all about how
+My life got flipped turned upside down
+
+Looked at my kingdom I was finally there
+To sit on my throne as the prince of Bel-Air """)
+
+
+print(""" 
+According to all known laws
+of aviation,
+""")
