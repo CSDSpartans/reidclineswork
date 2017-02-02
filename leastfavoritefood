@@ -1,0 +1,19 @@
+#!/usr/bin/env python3
+
+def food():
+  name = input("What's your least favorite food?")
+  if name == "Mushrooms":
+    print("EeeeeOOOOoooooow")
+  elif name == "Spinach":
+    print("That's Popeye's favorite")
+  else:
+    print(" Sounds good ")
+    
+print("Hello there")
+
+name = input("What is your name?\n>> ")
+
+print("Hi " + name)
+    
+food()    
+  
