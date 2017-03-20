@@ -28,10 +28,15 @@ while line != '':                      # while not end of file
       
     line = file_input.readline()
  
-
-
+total_lines_in_file = (line_counter + 11)
+print(" ")
+print("--End of Poem--")
 print(" ")
 print(" ")
-print("The number of stanzas is", stanza_counter)
-
+print("Total number of stanzas in this poem are", stanza_counter)
+print("Total number of lines in this file are", total_lines_in_file)
+print(" ")
+print("Tuesday Afternoon first appeared in the album, Days of Future Passed")
+print("Days of Future Passed was released in 1967")
+print("The Moody Blues members are Justin Hayward, Mike Pinder, and the London Festival Orchestra")
 file_input.close()
